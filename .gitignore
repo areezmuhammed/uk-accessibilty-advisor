@@ -1,0 +1,8 @@
+__pycache__/     # Python cache files - auto-generated, not needed in version control
+.env             # Environment file - often contains secrets like API keys (e.g., app_key)
+*.pyc            # Compiled Python files - not needed, just clutter
+.vscode/         # VS Code config folder - user-specific editor settings
+
+
+
+#why gitignore file is made is because The .gitignore file tells Git which files and folders to ignore when tracking changes in your project. This helps keep your repository clean, secure, and efficient by excluding files that are unnecessary, sensitive, or machine-specific.
